@@ -1,0 +1,22 @@
+{
+    "id": "b90698d2-aa14-4ecb-ae24-dd2751b85da7",
+    "author": "Eutech",
+    "widgets": [
+        {
+            "id": "Hotels_Booking",
+            "name": "Hotels_Booking",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        
+    ],
+    "uis": [
+       
+    ],
+    "menuItems": [
+        
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "2b3552ae-d4a9-4553-8d92-a7e9f571a422",
+    "author": "",
+    "widgets": [
+        {
+            "id": "Hotels_Booking",
+            "name": "Hotels_Booking",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "Hotels_BookingLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "Hotels_BookingLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "Hotels_BookingLink",
+            "title": "Hotels_Booking"
+        }
+    ]
+}
